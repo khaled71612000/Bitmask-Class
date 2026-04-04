@@ -27,6 +27,16 @@ The project is currently under development. The commit history includes topics c
 This project serves as a valuable resource for understanding and applying bitmask operations in C++ programming.
 ![8](https://github.com/khaled71612000/Bitmask-Class/assets/59780800/d61dea25-6544-4330-9c0e-0a3f0c126229)
 
+
+## Tech Stack
+
+| Technology | Role |
+|---|---|
+| C | Systems programming |
+| GCC / Clang | Compiler toolchain |
+| Data Structures | Core algorithms |
+
+
 ## Getting Started
 
 ```bash
